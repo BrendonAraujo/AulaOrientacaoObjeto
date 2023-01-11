@@ -2,7 +2,7 @@ using Balta.ContentConext.Enums;
 
 namespace Balta.ContentConext;
 
-public class Lecture
+public class Lecture : BaseContent
 {
 	public int Order { get; set; }
 	public string Title { get; set; } = "";

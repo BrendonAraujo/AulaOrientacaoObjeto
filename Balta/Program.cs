@@ -27,9 +27,9 @@ class Program
 		
 		var careers = new List<Career>();
 		var career = new Career("DotNET","Know more about .net");
-		var careerItem = new CareerItem(1,"Start Here","",null);
+		var careerItem = new CareerItem(1,"Start Here","",course);
 		
-		career.CareerItems.Add(careerItem);
+		career?.CareerItems.Add(careerItem);
 		careers.Add(career);
 	}	
 }

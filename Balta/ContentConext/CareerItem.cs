@@ -1,13 +1,21 @@
+using Balta.ContentConext.NotificationContent;
+
 namespace Balta.ContentConext;
 
-public class CareerItem
+public class CareerItem : BaseContent
 {
 	public CareerItem(int order, string title, string description, Course course)
 	{
 		Order = order;
 		Title = title;
 		Description = description;
-		Course = course;
+		if(course == null)
+		{
+			AddNotification(new Notification("Course", "Invalid course"));
+		}else
+		{
+			Course = course;	
+		}
 	}
 
 	public int Order { get; set; }

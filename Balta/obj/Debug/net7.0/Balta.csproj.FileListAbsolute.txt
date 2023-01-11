@@ -1,0 +1,15 @@
+C:\Fork\AulaOrientacaoObjeto\Balta\bin\Debug\net7.0\Balta.exe
+C:\Fork\AulaOrientacaoObjeto\Balta\bin\Debug\net7.0\Balta.deps.json
+C:\Fork\AulaOrientacaoObjeto\Balta\bin\Debug\net7.0\Balta.runtimeconfig.json
+C:\Fork\AulaOrientacaoObjeto\Balta\bin\Debug\net7.0\Balta.dll
+C:\Fork\AulaOrientacaoObjeto\Balta\bin\Debug\net7.0\Balta.pdb
+C:\Fork\AulaOrientacaoObjeto\Balta\obj\Debug\net7.0\Balta.csproj.AssemblyReference.cache
+C:\Fork\AulaOrientacaoObjeto\Balta\obj\Debug\net7.0\Balta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Fork\AulaOrientacaoObjeto\Balta\obj\Debug\net7.0\Balta.AssemblyInfoInputs.cache
+C:\Fork\AulaOrientacaoObjeto\Balta\obj\Debug\net7.0\Balta.AssemblyInfo.cs
+C:\Fork\AulaOrientacaoObjeto\Balta\obj\Debug\net7.0\Balta.csproj.CoreCompileInputs.cache
+C:\Fork\AulaOrientacaoObjeto\Balta\obj\Debug\net7.0\Balta.dll
+C:\Fork\AulaOrientacaoObjeto\Balta\obj\Debug\net7.0\refint\Balta.dll
+C:\Fork\AulaOrientacaoObjeto\Balta\obj\Debug\net7.0\Balta.pdb
+C:\Fork\AulaOrientacaoObjeto\Balta\obj\Debug\net7.0\Balta.genruntimeconfig.cache
+C:\Fork\AulaOrientacaoObjeto\Balta\obj\Debug\net7.0\ref\Balta.dll

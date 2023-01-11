@@ -8,6 +8,4 @@ public class Article : Content
 	{
 		
 	}
-	
-	public IList<Notification> Notifications { get; set; } = new List<Notification>();
 }
